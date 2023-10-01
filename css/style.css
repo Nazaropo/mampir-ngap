@@ -357,6 +357,7 @@ body {
 
 .products .product-image {
   padding: 1rem 0;
+  overflow: hidden;
 }
 
 .products .product-image img {
