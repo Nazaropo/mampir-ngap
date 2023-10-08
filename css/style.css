@@ -460,9 +460,9 @@ footer .links a:hover {
 footer .links {
   margin-bottom: 1.6rem;
 }
-footer .links a {
-  color: #fff;
+footer .links p {
   padding: 0.7rem 1rem;
+  color: #fff;
 }
 
 footer .credit {
